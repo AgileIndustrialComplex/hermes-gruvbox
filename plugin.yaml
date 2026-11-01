@@ -1,0 +1,8 @@
+name: hermes-gruvbox
+version: "1.0.0"
+manifest_version: 2
+license: MIT
+homepage: https://github.com/AgileIndustrialComplex/hermes-gruvbox
+description: Six Gruvbox themes for the Hermes Desktop app - dark and light, each in hard, medium and soft - listed in the app's own theme picker with their real labels and descriptions.
+requires_hermes: ">=0.22.5"
+tags: [theme, skin, gruvbox, desktop, tui]

@@ -1,0 +1,44 @@
+[
+ {
+  "skin": "Gruvbox Dark Medium",
+  "slug": "dark-medium",
+  "label": "Gruvbox Dark Medium",
+  "mode": "dark",
+  "description": "Gruvbox, medium contrast: #282828 surface, cream text, yellow accents."
+ },
+ {
+  "skin": "Gruvbox Dark Hard",
+  "slug": "dark-hard",
+  "label": "Gruvbox Dark Hard",
+  "mode": "dark",
+  "description": "Gruvbox, hard contrast: the deepest #1d2021 surface, cream text, yellow accents."
+ },
+ {
+  "skin": "Gruvbox Dark Soft",
+  "slug": "dark-soft",
+  "label": "Gruvbox Dark Soft",
+  "mode": "dark",
+  "description": "Gruvbox, soft contrast: the lifted #32302f surface, cream text, yellow accents."
+ },
+ {
+  "skin": "Gruvbox Light Medium",
+  "slug": "light-medium",
+  "label": "Gruvbox Light Medium",
+  "mode": "light",
+  "description": "Gruvbox, medium contrast: #fbf1c7 cream surface, dark ink, burnt-orange accents."
+ },
+ {
+  "skin": "Gruvbox Light Hard",
+  "slug": "light-hard",
+  "label": "Gruvbox Light Hard",
+  "mode": "light",
+  "description": "Gruvbox, hard contrast: the brightest #f9f5d7 cream surface, dark ink, burnt-orange accents."
+ },
+ {
+  "skin": "Gruvbox Light Soft",
+  "slug": "light-soft",
+  "label": "Gruvbox Light Soft",
+  "mode": "light",
+  "description": "Gruvbox, soft contrast: the warmest #f2e5bc cream surface, dark ink, burnt-orange accents."
+ }
+]
